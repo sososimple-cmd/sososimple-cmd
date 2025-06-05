@@ -18,5 +18,7 @@ I'm passionate about cybersecurity and cloud-based DevOps engineering, driven by
 
  https://medium.com/@sjmitchell1920 
 
+## 🔐 Governance, Risk & Compliance (GRC) Projects
+- **[GRC Projects](https://github.com/sososimple-cmd/grc-projects)**
 
 <hr/>
