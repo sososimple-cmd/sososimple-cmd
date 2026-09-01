@@ -5,25 +5,25 @@ I'm an IT and cybersecurity professional building hands-on expertise in identity
 
 ## 🔐 Identity and Access Management Projects
 
-[Active Directory Employee Onboarding and RBAC](https://github.com/sososimple-cmd/Basic-Employee-Onboarding-AD-RBAC-) 
+- [Active Directory Employee Onboarding and RBAC](https://github.com/sososimple-cmd/Basic-Employee-Onboarding-AD-RBAC-) 
 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/sososimple-cmd/Vulnerability-Management-Program)**
+- [Vulnerability Management Program Implementation](https://github.com/sososimple-cmd/Vulnerability-Management-Program)
 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sososimple-cmd/threat-hunting-scenario-tor)**
+- [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sososimple-cmd/threat-hunting-scenario-tor)
 
 
 
 ## ☁️ Cloud DevOps Projects
 
- https://medium.com/@sjmitchell1920 
+- https://medium.com/@sjmitchell1920 
 
 ## 🔐 Governance, Risk & Compliance (GRC) Projects
-- **[GRC Projects](https://github.com/sososimple-cmd/grc-projects)**
+- [GRC Projects](https://github.com/sososimple-cmd/grc-projects)
 
 <hr/>
