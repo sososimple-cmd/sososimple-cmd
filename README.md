@@ -8,6 +8,13 @@ I'm an IT and cybersecurity professional building hands-on expertise in identity
 - [Active Directory Employee Onboarding and RBAC](https://github.com/sososimple-cmd/Basic-Employee-Onboarding-AD-RBAC-) 
 
 
+- [Python IAM Lifecycle Automation — OrangeHRM & Authentik](https://github.com/sososimple-cmd/jml-lab)
+  - Automated Joiner-Mover-Leaver (JML) workflows using Python.
+  - Implemented department-based RBAC and identity provisioning.
+  - Identified and remediated an access-creep issue through Python troubleshooting.
+  - Validated 13 employee records with zero outstanding identity findings.
+  
+
 ## ⚠️ Vulnerability Management Projects
 
 - [Vulnerability Management Program Implementation](https://github.com/sososimple-cmd/Vulnerability-Management-Program)
